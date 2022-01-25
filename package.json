@@ -16,7 +16,8 @@
   "devDependencies": {
     "@cypress/react": "^5.12.1",
     "@cypress/webpack-dev-server": "^1.8.0",
-    "cypress": "https://cdn.cypress.io/beta/npm/10.0.0/circle-10.0-release-99a542ab798a5511c3c3e6761715fad41749e36e/cypress.tgz",
-    "cypress-xpath": "^1.6.2"
+    "cypress": "https://cdn.cypress.io/beta/npm/10.0.0/circle-10.0-release-3bc529b5bba4bdfce811acac34b3ebacc0ddb0e8/cypress.tgz",
+    "cypress-xpath": "^1.6.2",
+    "eslint-plugin-cypress": "^2.12.1"
   }
 }
