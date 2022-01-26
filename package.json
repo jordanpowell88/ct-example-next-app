@@ -14,9 +14,11 @@
     "webpack-dev-server": "^3.11.3"
   },
   "devDependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2",
     "@cypress/react": "^5.12.1",
+    "@cypress/skip-test": "^2.6.1",
     "@cypress/webpack-dev-server": "^1.8.0",
-    "cypress": "https://cdn.cypress.io/beta/npm/10.0.0/circle-10.0-release-3bc529b5bba4bdfce811acac34b3ebacc0ddb0e8/cypress.tgz",
+    "cypress": "https://cdn.cypress.io/beta/npm/10.0.0/circle-10.0-release-f1bc084a6dc35a2dd70db20e428d9521739340fd/cypress.tgz",
     "cypress-xpath": "^1.6.2",
     "eslint-plugin-cypress": "^2.12.1"
   }
